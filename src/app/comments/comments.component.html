@@ -1,0 +1,15 @@
+<h3>Comments:</h3>
+
+<div *ngFor="let comment of comments">
+    <div class="comment"> {{ comment.comment }} </div>
+</div>
+
+<form [formGroup]="commentsForm" (ngSubmit)="onSubmit()">
+    <select *ngIf="isTagShown" size="{{ users.length + 1 }}" formControlName="users" id="users">
+        <option *ngFor="let user of users; let i = index" [value]="users[i].name">
+          {{users[i].name}}
+        </option>
+      </select>
+    <textarea class="comment-box"  (keyup)="autosuggestUsers($event)" placeholder="Post Comment" formControlName="comment" cols="92" rows="1"></textarea>
+    <button class="button" type="submit">Post comment </button>
+</form>
