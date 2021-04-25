@@ -1,3 +1,4 @@
+<img width="1086" alt="Screen Shot 2021-04-25 at 2 31 59 AM" src="https://user-images.githubusercontent.com/44570298/115988412-7b62f300-a56e-11eb-93f1-c3908833a711.png">
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
@@ -27,4 +28,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 <img width="964" alt="Screen Shot 2021-04-25 at 2 26 11 AM" src="https://user-images.githubusercontent.com/44570298/115988350-26bf7800-a56e-11eb-8bbc-e11abbadd8ec.png">
+
+<img width="1048" alt="Screen Shot 2021-04-25 at 2 33 52 AM" src="https://user-images.githubusercontent.com/44570298/115988462-b49b6300-a56e-11eb-9de7-7d889826f036.png">
+
+
 
