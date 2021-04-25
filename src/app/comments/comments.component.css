@@ -1,18 +1,36 @@
 .comment {
     border-bottom: 1px solid #D0D0D0;
-    padding: 10px;
+    padding: 15px;
+}
+
+.comments-container {
+    margin-bottom: 20px;
 }
 
 .comment-box {
     height: 100px;
     width: 100%;
-    margin: 20px 0;
     border-color: #ccc;
     border-radius: 5px;
-    padding: 10px;
+    padding: 15px;
     line-height: 1.5;
+    margin: 20px 0;
 }
 
-select option[disabled] {
-    display: none;
+.users_dropdown {
+    width: 20%;
+    max-height: 220px;
+    position: absolute;
+    bottom: 69%;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px #D0D0D0;
+    border-color: #ccc;
+}
+
+.user_option {
+    padding: 20px;
+}
+
+.user_option:hover {
+    background-color: yellow;
 }
