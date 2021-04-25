@@ -1,4 +1,3 @@
-<img width="1086" alt="Screen Shot 2021-04-25 at 2 31 59 AM" src="https://user-images.githubusercontent.com/44570298/115988412-7b62f300-a56e-11eb-93f1-c3908833a711.png">
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
